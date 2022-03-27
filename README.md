@@ -381,7 +381,9 @@
 
 ## 感谢
 
-我很早就想系统地学习一遍设计模式，直到我下定决心，然后在 [Github](https://github.com/) 幸运地遇到了 [windsuzu/Design-Pattern](https://github.com/windsuzu/Design-Pattern) 这个项目，写的很棒，非常感谢原作者！然后本仓库的所有内容是在 [windsuzu/Design-Pattern](https://github.com/windsuzu/Design-Pattern) 的基础上做了一些小小的修改，并添加了一些我的个人理解。所有的荣誉都应归原作者所有，我只是作为一个知识的修订者/传播者。
+我很早就想系统地学习一遍设计模式，直到我下定决心，然后在 [Github](https://github.com/) 幸运地遇到了 [windsuzu/Design-Pattern](https://github.com/windsuzu/Design-Pattern) 这个项目，写的很棒，非常感谢原作者！
+
+本项目的所有内容是在 [windsuzu/Design-Pattern](https://github.com/windsuzu/Design-Pattern) 的基础上做了一些小小的修改，并添加了一些我的个人理解。
 
 致敬！
 
